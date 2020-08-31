@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/categories/"
+                href="https://jolly-bose-fc3d1c.netlify.app/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/categories/"
+                href="https://jolly-bose-fc3d1c.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/"
+                href="https://jolly-bose-fc3d1c.netlify.app/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/"
+                href="https://jolly-bose-fc3d1c.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/series/"
+                href="https://jolly-bose-fc3d1c.netlify.app/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/series/"
+                href="https://jolly-bose-fc3d1c.netlify.app/series/"
                 />
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="http://www.example.com/pt-br/tags/"
+                href="https://jolly-bose-fc3d1c.netlify.app/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.example.com/tags/"
+                href="https://jolly-bose-fc3d1c.netlify.app/tags/"
                 />
   </url>
   
