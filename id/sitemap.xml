@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/id/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jolly-bose-fc3d1c.netlify.app/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://jolly-bose-fc3d1c.netlify.app/id/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/id/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jolly-bose-fc3d1c.netlify.app/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://jolly-bose-fc3d1c.netlify.app/id/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/id/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jolly-bose-fc3d1c.netlify.app/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://jolly-bose-fc3d1c.netlify.app/id/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://jolly-bose-fc3d1c.netlify.app/id/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://jolly-bose-fc3d1c.netlify.app/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="id"
+                href="https://jolly-bose-fc3d1c.netlify.app/id/tags/"
+                />
+  </url>
+  
+</urlset>
